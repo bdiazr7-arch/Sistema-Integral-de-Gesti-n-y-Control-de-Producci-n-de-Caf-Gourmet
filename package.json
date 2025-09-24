@@ -28,5 +28,17 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.13",
     "vite": "^5.0.8"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HLJDanni/Sistema-Integral-de-Gesti-n-y-Control-de-Producci-n-de-Caf-Gourmet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HLJDanni/Sistema-Integral-de-Gesti-n-y-Control-de-Producci-n-de-Caf-Gourmet/issues"
+  },
+  "homepage": "https://github.com/HLJDanni/Sistema-Integral-de-Gesti-n-y-Control-de-Producci-n-de-Caf-Gourmet#readme"
 }
